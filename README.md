@@ -9,7 +9,7 @@
 
 ## Introduction
 
-In this project I was given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, and already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite!
+In this project I was given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, and already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! I found this code example that I looked at to assist me speed up this project submission: https://github.com/aayusharora/Feed-Reader-Testing
 
 ## Run-code:
 * Download or clone this repository
